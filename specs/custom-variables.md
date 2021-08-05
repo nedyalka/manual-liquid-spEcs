@@ -1,5 +1,5 @@
 ---
-#testspace:
+testspace:
 foo: bar
 bar:
   baz: foo
