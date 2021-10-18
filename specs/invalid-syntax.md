@@ -10,4 +10,4 @@ description here here
 
 ## Scenario-name
 
-steps to do do
+steps to do
