@@ -1,1 +1,3 @@
 manual:
+  path: tests
+  publish_path: manual
