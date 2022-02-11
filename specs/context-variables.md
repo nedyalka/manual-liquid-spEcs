@@ -4,7 +4,7 @@ testspace:
 
 # Context Variables showdown
 
-In this spec we are listing all default context variables using liquid spec
+In this spec we are listing all default context variables using liquid spec. test
 
 ## Example Scenario
 
