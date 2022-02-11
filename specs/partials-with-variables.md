@@ -8,7 +8,7 @@ bar:
 
 ## Example scenario
 
-Check if partials with variables are working correctly: 
+Check if partials with variables are working correctly: test
 
 {% include context-variables-partial.md %}
 {% include custom-defined-variables.md %}
