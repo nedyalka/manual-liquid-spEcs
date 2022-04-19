@@ -2,3 +2,6 @@ manual:
   issues:
     provider: "jira:testspacedemo/TEST"
     label: "sometslabel"
+release:
+ - "release*"
+ - "feature*"
