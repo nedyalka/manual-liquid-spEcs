@@ -1,7 +1,7 @@
 manual:
   issues:
-    provider: "jira:testspacedemo/TEST"
-    label: "sometslabel"
+    provider: "github:nedyalka/dummy-repo"
+    label: "tslabel"
 release:
  - "release*"
  - "feature*"
