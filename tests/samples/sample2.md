@@ -2,7 +2,7 @@
 testspace:
 ---
 
-# tests/samples/sample2.md
+# ^tests/samples/sample2.md
 
 description
 
