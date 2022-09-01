@@ -19,7 +19,7 @@ Premium       | 20          | Unlimited         | [URL](https://github.com/marke
 | Content Cell  | Content Cell  |
 
 
-## Test Case One
+## Open          | Unlimited   | Unlimited public  | [URL](https://github.com/marketplace/stridespace-com/plan/MDIyOk1hcmtldHBsYWNlTGlzdGluZ1BsYW41ODEy#pricing-and-setup)
 Some description here.
 
 
