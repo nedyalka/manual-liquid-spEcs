@@ -49,3 +49,4 @@ Some description here.
 
 * check this
 * check that
+* Open          | Unlimited   | Unlimited public  | [URL](https://github.com/marketplace/stridespace-com/plan/MDIyOk1hcmtldHBsYWNlTGlzdGluZ1BsYW41ODEy#pricing-and-setup)
