@@ -8,8 +8,5 @@ description
 
 ## Scenario-name
 
-steps first
-
-## Second Scenario
-
-test steps
+- steps first
+- steps second
