@@ -6,7 +6,7 @@ testspace:
 
 description
 
-## First scenario
+## First-scenario
 
 - steps one
 - steps two
